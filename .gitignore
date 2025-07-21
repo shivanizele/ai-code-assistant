@@ -1,0 +1,14 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# Java
+backend/target
+
+# OS files
+.DS_Store
+
+# IDE settings
+*.iml
+.idea/
+*.log
